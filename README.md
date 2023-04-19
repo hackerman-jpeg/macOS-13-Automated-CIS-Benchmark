@@ -1,4 +1,3 @@
-=========
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)]([https://www.gnu.org/licenses/gpl-3.0](https://github.com/dimaswell/Solaris-11-STIG/blob/main/LICENSE))
 ![Maintenance](https://img.shields.io/maintenance/yes/2023)
 
