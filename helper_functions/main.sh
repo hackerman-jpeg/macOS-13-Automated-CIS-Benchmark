@@ -13,7 +13,7 @@ source "./checks/check_1_1.sh"
 source "./checks/check_1_2.sh"
 source "./checks/check_1_3.sh"
 source "./checks/check_1_4.sh"
-source "./checks/section_1/check_1_5.sh"
+source "./checks/check_1_5.sh"
 source "./checks/section_1/check_1_6.sh"
 source "./checks/section_1/check_1_7.sh"
 
