@@ -15,7 +15,7 @@ source "./checks/check_1_3.sh"
 source "./checks/check_1_4.sh"
 source "./checks/check_1_5.sh"
 source "./checks/check_1_6.sh"
-source "./checks/section_1/check_1_7.sh"
+source "./checks/check_1_7.sh"
 
 # Add more source lines for additional check scripts as needed
 
