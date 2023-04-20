@@ -53,7 +53,7 @@ The repository is organized as follows:
 main.sh: The main entry point for the script. This file sources the helper_functions.sh and required check files, and 
 calls the check functions as needed.
 
-`README.md`: Provides documentation and instructions for using the script.
+`README.md`: This wonderful document!
 
 ## Contributing
 
