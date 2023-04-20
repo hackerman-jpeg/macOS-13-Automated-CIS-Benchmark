@@ -10,7 +10,7 @@ source "./helper_functions/helper_functions.sh"
 # Source the check scripts
 # Replace the paths with the correct ones if I change
 source "./checks/check_1_1.sh"
-source "./checks/section_1/check_1_2.sh"
+source "./checks/check_1_2.sh"
 source "./checks/section_1/check_1_3.sh"
 source "./checks/section_1/check_1_4.sh"
 source "./checks/section_1/check_1_5.sh"
