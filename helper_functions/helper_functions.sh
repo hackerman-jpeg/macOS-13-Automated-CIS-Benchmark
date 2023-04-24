@@ -23,7 +23,7 @@ fail() {
   FAILED=$((FAILED+1))
 }
  
-# Print summary function for total findings
+# Print summary function for total findings << Need to make more robust
 print_summary() {
   echo ""
   echo "Summary:"
