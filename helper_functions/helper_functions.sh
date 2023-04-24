@@ -15,7 +15,7 @@ pass() {
   PASSED=$((PASSED+1))
 }
 
-# Fail function
+# Fail function for a check that fails
 fail() {
   local check_id="$1"
   local title="$2"
