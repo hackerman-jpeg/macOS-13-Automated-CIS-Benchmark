@@ -19,7 +19,7 @@ source "./checks/check_1_7.sh"
 
 # Add more source lines for additional check scripts as needed
 
-# Run the checks
+# Run the checks - << might be old, need to remove, based on below. Still exploring the structure.
 
 # I need to add a line for each check function that needs to be called possibly
 check_1_1
