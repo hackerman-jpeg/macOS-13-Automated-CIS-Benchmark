@@ -20,7 +20,8 @@ source "./checks/check_1_7.sh"
 # Add more source lines for additional check scripts as needed
 
 # Run the checks
-# I need to add a line for each check function that needs to be called
+
+# I need to add a line for each check function that needs to be called possibly
 check_1_1
 check_1_2
 check_1_3
