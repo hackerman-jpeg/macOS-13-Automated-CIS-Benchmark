@@ -6,7 +6,7 @@
 # Initialize counters for passed and failed checks
 PASSED=0
 FAILED=0
- 
+
 # Pass function for a check that passes
 pass() {
   local check_id="$1"
