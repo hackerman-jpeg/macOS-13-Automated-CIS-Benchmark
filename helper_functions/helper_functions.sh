@@ -22,7 +22,7 @@ fail() {
   echo "[FAIL] $check_id - $title"
   FAILED=$((FAILED+1))
 }
- 
+
 # Print summary function for total findings
 print_summary() {
   echo ""
