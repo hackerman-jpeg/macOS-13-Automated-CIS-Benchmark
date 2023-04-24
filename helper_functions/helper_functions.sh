@@ -7,7 +7,7 @@
 PASSED=0
 FAILED=0
 
-# Pass function
+# Pass function for a check that passes
 pass() {
   local check_id="$1"
   local title="$2"
