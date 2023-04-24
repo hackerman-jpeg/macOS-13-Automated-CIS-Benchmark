@@ -2,7 +2,7 @@
 
 # Helper Functions for macOS CIS Benchmarks Automation
 #UNDER DEV
-
+ 
 # Initialize counters for passed and failed checks
 PASSED=0
 FAILED=0
