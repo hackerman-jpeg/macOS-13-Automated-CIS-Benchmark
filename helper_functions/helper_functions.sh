@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Helper Functions for macOS CIS Benchmarks Automation
-#UNDER DEV, please note this may be broken
+#UNDER DEV, please note this may be broken..still as of May 2025
  
 # Initialize counters for passed and failed checks
 PASSED=0
