@@ -9,7 +9,7 @@ SECONDS=0
 TIMER_PID=
 
 
-# Create an output file avoiding temptation to include word "swell" in the filename ;)
+# Create an output file avoiding temptation to include word "swell" in the filename ;) ...may not be working btw /may2025
 touch $OUTPUT_FILE
 rm -f /tmp/check_cis_complete
 
